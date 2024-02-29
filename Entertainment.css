@@ -1,0 +1,60 @@
+*{
+    background-color:#28494e ;
+    text-decoration: none;
+}
+
+button{
+    background-color: rgb(127, 211, 130);
+    text-decoration: none;
+    border-radius: 40px;
+    margin-right: 40px;
+    border: none;
+    width: 75px;
+}
+
+button:hover{
+    opacity: 0.6;
+}
+
+.youtube_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 15px;
+}
+
+.instagram_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 65px;
+}
+.netflix_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 65px;
+}
+
+.facebook_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 60px;
+}
+
+.tik_tok_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+
+.snapchat_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 60px;
+}
+
+.messenger_pic{
+    width: 50px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+
+
